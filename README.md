@@ -33,7 +33,7 @@ $ npm install
 ```
 
 ## Running the app
-
+### Before running the Nest application, make sure that your Redis server is up and running. The application relies on Redis.
 ```bash
 # development
 $ npm run start
